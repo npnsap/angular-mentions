@@ -1,0 +1,10 @@
+/*
+ * Public API Surface of angular-mentions
+ */
+export * from './lib/caret-coords';
+export * from './lib/mention-utils';
+export * from './lib/mention-config';
+export * from './lib/mention-list.component';
+export * from './lib/mention.directive';
+export * from './lib/mention.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2FuZ3VsYXItbWVudGlvbnMvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFDSCxjQUFjLG9CQUFvQixDQUFDO0FBQ25DLGNBQWMscUJBQXFCLENBQUM7QUFDcEMsY0FBYyxzQkFBc0IsQ0FBQztBQUNyQyxjQUFjLDhCQUE4QixDQUFDO0FBQzdDLGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYyxzQkFBc0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYW5ndWxhci1tZW50aW9uc1xuICovXG5leHBvcnQgKiBmcm9tICcuL2xpYi9jYXJldC1jb29yZHMnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbWVudGlvbi11dGlscyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tZW50aW9uLWNvbmZpZyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tZW50aW9uLWxpc3QuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21lbnRpb24uZGlyZWN0aXZlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21lbnRpb24ubW9kdWxlJztcbiJdfQ==
